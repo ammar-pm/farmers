@@ -1,0 +1,78 @@
+/* colors */
+.auth-page .card-wrapper {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center; }
+  .auth-page .card-wrapper .card {
+    margin-bottom: 0;
+    border-radius: 0;
+    border: none;
+    box-shadow: 0 5px 10px #ccc; }
+    .auth-page .card-wrapper .card h1 {
+      font-size: 2.6rem;
+      margin-bottom: 22px;
+      margin-top: 11px; }
+      @media (max-width: 767px) {
+        .auth-page .card-wrapper .card h1 {
+          font-size: 2rem; } }
+    .auth-page .card-wrapper .card p {
+      font-size: 1.4rem; }
+    .auth-page .card-wrapper .card form {
+      margin: 18px 0 24px; }
+      .auth-page .card-wrapper .card form button.btn {
+        padding: 1.2rem;
+        border-radius: 0;
+        background: #5D92F4;
+        box-shadow: 0 3px 10px #ccc;
+        width: 100%;
+        font-size: 1.4rem; }
+    .auth-page .card-wrapper .card a {
+      color: #222;
+      font-weight: bold; }
+  @media (min-width: 768px) {
+    .auth-page .card-wrapper .card-body {
+      padding: 4rem 6rem; } }
+.auth-page .social-login {
+  margin-top: 2.6rem; }
+  .auth-page .social-login a {
+    display: inline-block; }
+    .auth-page .social-login a i {
+      border: 1px solid;
+      display: inline-block;
+      padding: 6px;
+      line-height: 24px;
+      color: #fff;
+      /*background: #aaa;*/
+      box-shadow: 0 3px 10px #ccc;
+      border: none;
+      margin: 0 10px 5px;
+      min-width: 36px; }
+      .auth-page .social-login a i.mdi-google {
+        background: #db3236; }
+      .auth-page .social-login a i.mdi-facebook-box {
+        background: #3b5998; }
+      .auth-page .social-login a i:before {
+        vertical-align: middle; }
+    .auth-page .social-login a span {
+      display: block;
+      font-size: 1.2rem; }
+.auth-page form input[type='text'], .auth-page form input[type='password'], .auth-page form input[type='email'] {
+  box-shadow: none;
+  border: none;
+  border-bottom: 1px solid;
+  border-radius: 0;
+  font-size: 1.8rem;
+  padding: 8px; }
+.auth-page form .input-group {
+  margin-bottom: 24px; }
+.auth-page form .form-group {
+  margin-bottom: 20px; }
+
+/* RTL */
+[dir=rtl] body {
+  font-family: 'Tajawal', sans-serif !important; }
+[dir=rtl] .text-right {
+  text-align: left !important; }
+
+/*# sourceMappingURL=auth.css.map */

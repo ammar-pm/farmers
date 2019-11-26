@@ -1,0 +1,18 @@
+.navbar-inverse {background-color:#11547b}
+.navbar-inverse .navbar-nav > li > a {color:#fff}
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {color:#14b3e4}
+.modebar {display: none}
+
+
+.img-option input[type="radio"] { /* HIDE RADIO */
+  visibility: hidden; /* Makes input not-clickable */
+  position: absolute; /* Remove input from document flow */
+}
+
+.img-option input[type="checkbox"], .img-option input[type="radio"]  + img { /* IMAGE STYLES */
+  cursor:pointer;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(240,240,240,1); -moz-box-shadow: 10px 10px 5px 0px rgba(240,240,240,1);box-shadow: 10px 10px 5px 0px rgba(240,240,240,1)
+}
+.img-option input[type="checkbox"]:checked, input[type="radio"]:checked + img { /* (RADIO CHECKED) IMAGE STYLES */
+  border: 2px solid #4c7ff0;
+}

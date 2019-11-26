@@ -1,0 +1,43 @@
+body.dashboard {
+  .sidebar {
+    background: #333950;
+    .nav {
+      overflow: hidden;
+      .mdi {
+        width: 36px;
+        display: inline-block;
+        text-align: center;
+      }
+      .nav-item {
+        &.open {
+          border-left: 4px solid;
+          box-sizing: border-box;
+          .mdi {
+            width: 32px;
+          }
+          /*.nav-link.active:hover {
+            background: rgb(58, 66, 72);
+          }*/
+        }
+      }
+      .nav-link {
+        padding: 1.25rem 1rem;
+        &.active, &:hover {
+          background: #3C445F;
+        }
+      }
+    }
+  }
+}
+
+/* rtl */
+[dir=rtl] {
+  body.dashboard {
+
+    .sidebar .nav .nav-item.open {
+      border-left: none;
+      border-right: 4px solid;
+    }
+    
+  }
+}

@@ -1,0 +1,463 @@
+1,2,3,4
+Indicator,1997,2007,2017
+House,259263,311304,363345
+Building,42272,80417,118562
+Tent,1474,1452,1452
+Marginal,2860,3338,3816
+Establishment,28543,34499,39674
+Under Preparation,0,13789,15857
+Under Construction,20901,14210,16342
+Other,851,732,842
+Not Stated,0,212,244
+Palestine,359562,466707,570243
+Villa,2753,5666,6516
+House,176231,213766,245831
+Building,26111,47740,54901
+Tent,1242,1290,1484
+Marginal,1373,2537,2918
+Establishment,18426,23641,27187
+Under Preparation,0,12268,14108
+Under Construction,16563,11500,13225
+Other,418,665,765
+Not Stated,0,197,227
+West Bank,243117,319270,367161
+Villa,645,1088,1251
+House,83032,97538,112169
+Building,16161,32677,37579
+Tent,232,162,186
+Marginal,1487,801,921
+Establishment,10117,10858,12487
+Under Preparation,0,1521,1749
+Under Construction,4338,2710,3117
+Other,433,67,77
+Not Stated,0,15,17
+Gaza Strip,116445,147437,169553
+Villa,202,590,679
+House,25038,32599,37489
+Building,2283,3992,4591
+Tent,49,51,59
+Marginal,149,236,271
+Establishment,3151,3549,4081
+Under Preparation,0,1705,1961
+Under Construction,2529,1507,1733
+Other,63,103,118
+Not Stated,0,18,21
+Jenin,33464,44350,51003
+Villa,36,79,91
+House,4861,5962,6856
+Building,253,830,955
+Tent,167,263,302
+Marginal,80,158,182
+Establishment,286,434,499
+Under Preparation,0,284,327
+Under Construction,355,245,282
+Other,20,6,7
+Not Stated,0,4,5
+Tubas,6058,8265,9505
+Villa,168,321,369
+House,15279,18166,20891
+Building,2076,3285,3778
+Tent,23,4,5
+Marginal,179,103,118
+Establishment,1645,2337,2688
+Under Preparation,0,971,1117
+Under Construction,1337,877,1009
+Other,28,23,26
+Not Stated,0,5,6
+Tulkarm,20735,26092,30006
+Villa,103,274,315
+House,7396,8996,10345
+Building,1104,1794,2063
+Tent,11,13,15
+Marginal,94,132,152
+Establishment,988,1544,1776
+Under Preparation,0,395,454
+Under Construction,538,410,472
+Other,17,31,36
+Not Stated,0,2,2
+Qalqilya,10251,13591,15630
+Villa,41,142,163
+House,6739,8601,9891
+Building,371,808,929
+Tent,22,14,16
+Marginal,19,14,16
+Establishment,506,780,897
+Under Preparation,0,389,447
+Under Construction,767,491,565
+Other,4,16,18
+Not Stated,0,2,2
+Salfit,8469,11257,12946
+Villa,321,587,675
+House,22910,27301,31396
+Building,5159,8497,9772
+Tent,80,108,124
+Marginal,135,329,378
+Establishment,2344,3008,3459
+Under Preparation,0,1508,1734
+Under Construction,2067,1411,1623
+Other,68,72,83
+Not Stated,0,63,72
+Nablus,33084,42884,49317
+Villa,701,1536,1766
+House,22788,25129,28898
+Building,3475,7457,8576
+Tent,177,210,242
+Marginal,46,202,232
+Establishment,2052,2595,2984
+Under Preparation,0,1702,1957
+Under Construction,2211,1660,1909
+Other,16,39,45
+Not Stated,0,38,44
+Ramallah & Al0Bireh,31466,40568,46653
+Villa,250,300,345
+House,10429,10219,11752
+Building,2980,4987,5735
+Tent,292,108,124
+Marginal,191,357,411
+Establishment,885,1202,1382
+Under Preparation,0,514,591
+Under Construction,1341,480,552
+Other,18,23,26
+Not Stated,0,21,24
+Jerusalem,16386,18211,20943
+Villa,69,192,221
+House,3883,5470,6291
+Building,316,347,399
+Tent,245,201,231
+Marginal,176,387,445
+Establishment,442,667,767
+Under Preparation,0,247,284
+Under Construction,511,434,499
+Other,12,86,99
+Not Stated,0,9,10
+Jericho,5654,8040,9246
+Villa,274,359,413
+House,13638,16482,18954
+Building,3016,4883,5615
+Tent,29,10,12
+Marginal,34,94,108
+Establishment,1378,1761,2025
+Under Preparation,0,800,920
+Under Construction,1727,1115,1282
+Other,17,44,51
+Not Stated,0,16,18
+Bethlehem,20113,25564,29399
+Villa,588,1286,1479
+House,43270,54841,63067
+Building,5078,10860,12489
+Tent,147,308,354
+Marginal,270,525,604
+Establishment,4749,5764,6629
+Under Preparation,0,3753,4316
+Under Construction,3180,2870,3301
+Other,155,222,255
+Not Stated,0,19,22
+Hebron,57437,80448,92515
+Villa,150,203,233
+House,14483,18107,20823
+Building,2134,5405,6216
+Tent,62,20,23
+Marginal,472,350,403
+Establishment,1577,1604,1845
+Under Preparation,0,243,279
+Under Construction,831,429,493
+Other,25,5,6
+Not Stated,0,2,2
+North Gaza,19734,26368,30323
+Villa,208,363,417
+House,23346,22190,25519
+Building,7529,14869,17099
+Tent,62,33,38
+Marginal,360,89,102
+Establishment,2840,3150,3623
+Under Preparation,0,272,313
+Under Construction,1025,530,610
+Other,109,22,25
+Not Stated,0,9,10
+Gaza,35479,41527,47756
+Villa,51,155,178
+House,15153,18413,21175
+Building,1240,3614,4156
+Tent,8,14,16
+Marginal,81,52,60
+Establishment,1542,2034,2339
+Under Preparation,0,240,276
+Under Construction,704,364,419
+Other,58,12,14
+Not Stated,0,3,3
+Deir Al 0 Balah,18837,24901,28636
+Villa,191,233,268
+House,18365,23920,27508
+Building,3835,5626,6470
+Tent,67,78,90
+Marginal,119,107,123
+Establishment,3014,2850,3278
+Under Preparation,0,550,633
+Under Construction,1149,887,1020
+Other,199,16,18
+Not Stated,0,0,0
+Khanyunis,26939,34267,39407
+Villa,45,134,154
+House,11685,14908,17144
+Building,1423,3163,3637
+Tent,33,17,20
+Marginal,455,203,233
+Establishment,1144,1220,1403
+Under Preparation,0,216,248
+Under Construction,629,500,575
+Other,42,12,14
+Not Stated,0,1,1
+Rafah,15456,20374,23430
+Tenure of housing unit0Households,,,
+Owned,318049,473794,544863
+Rented Un0Furnished,37403,46629,53623
+Rented Furnished,2024,4242,4878
+Without Payment ,45868,46564,53549
+For Work,1158,1917,2205
+Others,980,1148,1320
+Not Stated,1583,10256,11794
+Palestine,407065,584550,672233
+Owned,197764,299978,344975
+Rented Un0Furnished,30389,32745,37657
+Rented Furnished,1528,2596,2985
+Without Payment ,30447,23406,26917
+For Work,820,1337,1538
+Others,464,590,679
+Not Stated,1156,9138,10509
+West Bank,262568,369790,425259
+Owned,120285,173816,199888
+Rented Un0Furnished,7014,13884,15967
+Rented Furnished,496,1646,1893
+Without Payment ,15421,23158,26632
+For Work,338,580,667
+Others,516,558,642
+Not Stated,427,1118,1286
+Gaza Strip,144497,214760,246974
+Owned,26161,40355,46408
+Rented Un0Furnished,2360,2523,2901
+Rented Furnished,122,245,282
+Without Payment ,4009,2507,2883
+For Work,66,171,197
+Others,58,66,76
+Not Stated,106,674,775
+Jenin,32882,46541,53522
+Owned,4601,7165,8240
+Rented Un0Furnished,258,480,552
+Rented Furnished,26,38,44
+Without Payment ,834,741,852
+For Work,28,52,60
+Others,13,12,14
+Not Stated,36,140,161
+Tubas,5796,8628,9922
+Owned,15809,23415,26927
+Rented Un0Furnished,2993,3055,3513
+Rented Furnished,91,183,210
+Without Payment ,3289,2540,2921
+For Work,53,112,129
+Others,33,37,43
+Not Stated,49,366,421
+Tulkarm,22317,29708,34164
+Owned,8346,13389,15397
+Rented Un0Furnished,1203,1374,1580
+Rented Furnished,53,94,108
+Without Payment ,1742,916,1053
+For Work,10,33,38
+Others,20,42,48
+Not Stated,44,152,175
+Qalqilya,11418,16000,18400
+Owned,6374,9286,10679
+Rented Un0Furnished,363,597,687
+Rented Furnished,34,40,46
+Without Payment ,1026,958,1102
+For Work,9,30,35
+Others,4,14,16
+Not Stated,22,33,38
+Salfit,7832,10958,12602
+Owned,29146,47405,54516
+Rented Un0Furnished,7145,6496,7470
+Rented Furnished,224,484,557
+Without Payment ,6037,3795,4364
+For Work,117,182,209
+Others,59,81,93
+Not Stated,197,307,353
+Nablus,42925,58750,67563
+Owned,25147,37240,42826
+Rented Un0Furnished,6076,7295,8389
+Rented Furnished,336,483,555
+Without Payment ,2832,2718,3126
+For Work,78,124,143
+Others,101,102,117
+Not Stated,190,1675,1926
+Ramallah & Al0Bireh,34760,49637,57083
+Owned,13675,15596,17935
+Rented Un0Furnished,3321,2481,2853
+Rented Furnished,200,224,258
+Without Payment ,1604,989,1137
+For Work,49,39,45
+Others,40,41,47
+Not Stated,101,3820,4393
+Jerusalem,18990,23190,26669
+Owned,3421,5342,6143
+Rented Un0Furnished,703,908,1044
+Rented Furnished,59,149,171
+Without Payment ,590,394,453
+For Work,265,227,261
+Others,14,25,29
+Not Stated,50,217,250
+Jericho,5102,7262,8351
+Owned,17567,27172,31248
+Rented Un0Furnished,2289,2351,2704
+Rented Furnished,136,190,219
+Without Payment ,2487,929,1068
+For Work,55,66,76
+Others,38,64,74
+Not Stated,108,699,804
+Bethlehem,22680,31471,36192
+Owned,47517,73613,84655
+Rented Un0Furnished,3678,5185,5963
+Rented Furnished,247,466,536
+Without Payment ,5997,6919,7957
+For Work,90,301,346
+Others,84,106,122
+Not Stated,253,1055,1213
+Hebron,57866,87645,100792
+Owned,21615,32798,37718
+Rented Un0Furnished,799,1988,2286
+Rented Furnished,49,201,231
+Without Payment ,2245,4363,5017
+For Work,68,86,99
+Others,105,102,117
+Not Stated,90,66,76
+North Gaza,24971,39604,45545
+Owned,38958,57803,66473
+Rented Un0Furnished,4073,5644,6491
+Rented Furnished,312,813,935
+Without Payment ,8701,9794,11263
+For Work,148,227,261
+Others,161,224,258
+Not Stated,146,518,596
+Gaza ,52499,75023,86276
+Owned,19017,26483,30455
+Rented Un0Furnished,598,1865,2145
+Rented Furnished,47,226,260
+Without Payment ,989,2465,2835
+For Work,41,99,114
+Others,89,66,76
+Not Stated,85,136,156
+Deir Al 0 Balah,20866,31340,36041
+Owned,24799,35694,41048
+Rented Un0Furnished,970,2016,2318
+Rented Furnished,53,213,245
+Without Payment ,2621,4163,4787
+For Work,49,90,104
+Others,133,146,168
+Not Stated,66,80,92
+Khanyunis,28691,42402,48762
+Owned,15896,21038,24194
+Rented Un0Furnished,574,2371,2727
+Rented Furnished,35,193,222
+Without Payment ,865,2373,2729
+For Work,32,78,90
+Others,28,20,23
+Not Stated,40,318,366
+Rafah,17470,26391,30350
+Number of buildings ,,,
+Palestine,359562,466707,648737
+West Bank,243117,319270,461536
+Gaza Strip,116445,147437,187201
+Jenin,33464,44350,58777
+Tubas,6058,8265,11276
+Tulkarm,20735,26092,32833
+Qalqilya,10251,42884,55663
+Salfit,8469,13591,21811
+Nablus,33084,11257,14611
+Ramallah & Al0Bireh,31466,40568,52303
+Jerusalem,16386,8040,10436
+Jericho,5654,18211,58656
+Bethlehem,20113,25564,32492
+Hebron,57437,80448,112678
+North Gaza,19734,26368,35232
+Gaza,35479,41527,48606
+Deir Al 0 Balah,18837,24901,32917
+Khanyunis,26939,34267,43588
+Rafah,15456,20374,26857
+Average housing density,,,
+Palestine,2,1.6,2
+West Bank,1.9,1.6,2
+Gaza Strip,2.1,1.8,2
+Jenin,1.9,1.5,1
+Tubas,2.1,1.6,1
+Tulkarm,1.8,1.5,2
+Qalqilya,1.8,1.6,2
+Salfit,1.9,1.5,1
+Nablus,1.8,1.5,1
+Ramallah & Al0Bireh,1.7,1.3,1
+Jerusalem,1.8,1.6,2
+Jericho,2.3,1.7,1
+Bethlehem,1.8,1.5,1
+Hebron,2.2,1.8,2
+North Gaza,2.2,1.8,2
+Gaza,2,1.8,2
+Deir Al 0 Balah,2.2,1.8,2
+Khanyunis,2,1.7,2
+Rafah,2.1,1.8,2
+Number of housing units ,,,
+Palestine,466651,584550,964816
+West Bank,314230,369790,610132
+Gaza Strip,152421,214760,354684
+Jenin,36938,46541,76790
+Tubas,6650,8628,14236
+Tulkarm,25849,29708,49016
+Qalqilya,12957,16000,26399
+Salfit,9144,10958,18080
+Nablus,49516,58750,96934
+Ramallah & Al0Bireh,43691,49637,81898
+Jerusalem,25979,23190,38262
+Jericho,6287,7262,11982
+Bethlehem,27266,31471,51925
+Hebron,69953,87645,144609
+North Gaza,25147,39604,65407
+Gaza,57164,75023,123903
+Deir Al 0 Balah,20438,31340,51759
+Khanyunis,31544,42402,70028
+Rafah,18128,26391,43586
+Connection to electricity,,,
+Palestine,389753,584550,964816
+West Bank,256935,369790,610132
+Gaza Strip,132818,214760,354684
+Jenin,32206,46541,76790
+Tubas,5488,8628,14236
+Tulkarm,22057,29708,49016
+Qalqilya,11273,16000,26399
+Salfit,7645,10958,18080
+Nablus,41770,49637,96934
+Ramallah & Al0Bireh,34258,48974,81898
+Jerusalem,18818,23190,38262
+Jericho,5022,7262,11982
+Bethlehem,22105,31471,51925
+Hebron,56293,87645,144609
+North Gaza,22599,39604,65407
+Gaza,48489,75023,123903
+Deir Al 0 Balah,18905,31340,51759
+Khanyunis,26971,42402,70028
+Rafah,15854,26391,43586
+No. of households ,,,
+Palestine,407265,646413,959300
+West Bank,262736,427097,615336
+Gaza Strip,144529,219316,343964
+Jenin,32886,47437,66905
+Tubas,5796,9004,13913
+Tulkarm,22324,29938,39134
+Qalqilya,11419,59663,23818
+Salfit,7833,16483,15203
+Nablus,42935,11103,81893
+Ramallah & Al0Bireh,34785,52834,74833
+Jerusalem,19013,7615,90093
+Jericho,5120,70434,11212
+Bethlehem,22743,32667,46457
+Hebron,57882,89919,151875
+North Gaza,24974,40371,67848
+Gaza,52515,76868,118990
+Deir Al 0 Balah,20868,32078,49525
+Khanyunis,28693,43179,64976
+Rafah,17479,26820,42625

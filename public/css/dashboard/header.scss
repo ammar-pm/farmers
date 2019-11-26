@@ -1,0 +1,232 @@
+/* colors */
+$green: #00D014;
+$blue: #5D92F4;
+$yellow: #FFB70F;
+$turquoise: #22D5C5;
+$red: #FF0000;
+$black: #000000;
+$white: #ffffff;
+
+body.dashboard {
+
+  *:focus {
+    outline: none;
+  }
+
+  .nav .open > a:focus {
+    background-color: transparent;
+  }
+
+  header.app-header {
+    border: none;
+    background: $white;
+    position: fixed;
+    border-radius: 0;
+    ul.navbar-nav {
+      /*height: 100%;*/
+      .dropdown.account, .nav-link, .nav-item {
+        /*height: 100%;*/
+      }
+    }
+    .navbar-toggler {
+      font-size: 14px;
+      .mdi-menu {
+        line-height: 20px;
+      }
+    }
+  }
+  .navbar-brand {
+    width: 200px !important;
+    background-color: #333950 !important;
+    color: #fff;
+    font-size: 0;
+    display: inline-block;
+    h1 {
+      font-size: 18px;
+      color: #fff;
+      padding: 0 18px;
+      margin: 18px 0;
+    }
+    @media (max-width: 991px) {
+      display: none !important;
+    }
+    img {
+      padding: 6px 10px 5px;
+    }
+  }
+
+  .navbar-nav {
+    height: 100%;
+    .navbar-quicklinks {
+      line-height: 55px;
+    }
+  }
+
+  .search-form {
+    border: 1px solid #c3c3c3;
+    background: #fff;
+    margin: 0 15px;
+    input {
+      border: none;
+      border-radius: 0;
+      margin-right: 0 !important;
+      padding: 6px 6px;
+      display: inline-block;
+      width: auto;
+      vertical-align: middle;
+      &:focus {
+        outline: none;
+        box-shadow: none;
+      }
+    }
+    .mdi {
+      width: 32px;
+      text-align: center;
+      display: inline-block;
+      /*padding-top: 6px;*/
+    }
+    @media (max-width: 767px) {
+      width: 150px;
+      .mdi {
+        width: 32px;
+      }
+      input {
+        width: 116px;
+      }
+    }
+    @media (min-width: 1024px) {
+      width: 280px;
+      input {
+        width: 240px;
+      }
+    }
+  }
+
+  .secondary-menu {
+    .nav-item {
+      height: 55px;
+      line-height: 55px;
+      .nav-link {
+        height: 100%;
+      }
+    }
+    .spark-nav-profile-photo {
+      width: 40px;
+      height: 40px;
+    }
+  } 
+
+  /*@media (max-width: 991px) {
+    .app-body {
+      margin-top: 0 !important;
+    }
+  }*/
+  .badge {
+    background-color: red;
+    border: 2px solid $white;
+    height: 18px;
+    display: block;
+    border-radius: 50%;
+  }
+
+  .account.dropdown {
+    margin: 0 15px;
+    &.show {
+      a {
+        color: #2f353a;
+      }
+    }
+    .dropdown-menu {
+      background: #fff;
+      box-shadow: 0 1px 2px #ccc;
+    }
+  }
+  .app-header .navbar-nav .dropdown-menu-right {
+    right: 0;
+    left: auto;
+  }
+  .app-header .navbar-nav .dropdown-menu {
+    position: absolute;
+  }
+
+  .dropdown.quick-links {
+    .dropdown-menu {
+      width: 290px;
+      .dropdown-header {
+        margin-bottom: 0;
+        clear: left;
+        height: 64px;
+        padding: 2%;
+        strong {
+          line-height: 50px;
+          margin: 0 2%;
+          display: inline-block;
+          width: 46%;
+          font-weight: bold;
+        }
+        .dropdown-item {
+          float: right;
+        }
+      }
+      .dropdown-content {
+        background: #f4f4f4;
+        padding: 2%;
+      }
+      .dropdown-item {
+        display: inline-block;
+        min-width: 0;
+        width: 46%;
+        margin: 2%;
+        background: #fff;
+        border-bottom: 0;
+        box-shadow: 0 1px 2px #ccc;
+        font-size: 12px;
+      }
+    }
+  }
+
+  .dropdown.show .navbar-quicklinks .mdi {
+    color: #2f353a;
+  }
+
+  .dropdown-menu {
+    padding: 0;
+  }
+
+}
+
+/* RTL */
+[dir=rtl] {
+  body.dashboard {
+    
+    .navbar-nav.ml-auto {
+      margin-right: auto;
+      margin-left: 0 !important;
+    }
+
+    .app-header .navbar-nav .dropdown-menu-right {
+      left: 0;
+      right: auto;
+    }
+
+    .app-header .navbar-nav .dropdown-menu-left {
+      right: 0;
+      left: auto;
+    }
+
+    .dropdown-header {
+      text-align: right;
+      .dropdown-item {
+        float: left !important;
+      }
+    }
+
+    @media (max-width: 374px) {
+      .account.dropdown {
+        margin: 0;
+        margin-left: 15px;
+      }
+    }
+
+  }
+}

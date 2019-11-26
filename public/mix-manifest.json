@@ -1,0 +1,11 @@
+{
+  "/js/app.js": "/js/app.js",
+  "/mix.js": "/mix.js",
+  "/css/app.css": "/css/app.css",
+  "/main.js": "/main.js",
+  "/css/dashboard/user-admin.css": "/css/dashboard/user-admin.css",
+  "/js/vendor.js": "/js/vendor.js",
+  "/js/manifest.js": "/js/manifest.js",
+  "/js/app.min.js": "/js/app.min.js",
+  "/js/vendor.min.js": "/js/vendor.min.js"
+}

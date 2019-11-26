@@ -1,0 +1,158 @@
+$active-button: #00D0BD;
+
+/*user*/
+div.user-admin {
+    .btn-group {
+        & > .btn {
+            text-transform: none;
+            background-color: white;
+            &.active {
+                background-color: $active-button;
+                color: white;
+              }
+        }
+    }
+
+    .user-admin-filters {
+        .filter-horizontal {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .row {
+            height: 100%;
+        }
+        .search-form{
+            height: 48px;
+            box-shadow: 2px 1px 8px #8888;
+            margin: 0;
+            display: flex;
+            align-items: center;
+            width: auto;
+            label {
+                padding-top: 10px;
+                padding-left: 10px;
+            }
+            input {
+                width: unset;
+            }
+        }
+        .v-select {
+            height: 48px;
+            width: auto;
+            .vs__selected-options {
+                align-items: center;
+            }
+            .selected-tag {
+                height: fit-content;
+                font-size: 14px;
+                margin-top: 0;
+            }
+            .dropdown-toggle {
+                box-shadow: 2px 1px 8px #8888;
+                border-bottom: unset;
+                height: 100%;
+                background-color: white;
+            }
+            &.single{
+                .dropdown-toggle .clear {
+                    display: none;
+                }
+                .selected-tag:nth-child(3n+1){
+                    background: unset;
+                    color: black;
+                }
+            }
+        }
+        .col {
+            flex-basis: auto;
+            flex: 1;
+            padding-left: 0px;
+        }
+    }
+
+    .grid-view {
+        .user-item {
+            height: 180px;
+            .panel-head {
+                padding-top: 15px !important;
+                display:flex;
+                justify-content: space-between;
+                .panel-header {
+                    .role-btn {
+                        border-radius: 50%;
+                        background-color: $active-button;
+                        box-shadow: none;
+                        padding: 0;
+                        width: 42px;
+                        height: 42px;
+                        cursor: default;
+                        .mdi {
+                            padding: 10px 7px;
+                            color: white;
+                            display: flex;
+                            justify-content: center;
+                        }
+                    }
+                }
+                .name {
+                 a {
+                    font-size: 14px;
+                    color: black;
+                    text-decoration: none;
+                 }
+                 p {
+                     font-size: 12px;
+                 }
+                }
+                span {
+                    margin-top: -35px;
+                    margin-left: 45px;
+                    display: block;
+                }
+
+                .date {
+                    margin-left: 45px;
+                    margin-bottom: 0px;
+                    padding-top: 7px;
+                    font-size: smaller;
+                }
+            }
+
+            hr {
+              margin: 0;  
+            }
+
+            .panel-meta {
+                .file-controls {
+                    margin-top: -60px;
+                    .mdi {
+                        background-color: white !important;
+                        color: #FF0000 !important;
+                        padding: 0px !important;
+                        box-shadow: none !important;
+                    }
+                }
+
+                .form-row {
+                    justify-content: flex-end;
+                }
+            }
+
+            .panel-actions {
+                .editor:nth-child(n) {
+                    background: #FFB70F;
+                }
+
+                .admin:nth-child(n) {
+                    background: $active-button;
+                }
+
+                .member:nth-child(n) {
+                    background: #5D92F4;
+                }
+            }
+        }
+    }
+
+}
