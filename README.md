@@ -1,4 +1,4 @@
-# Indicators
+# Mzr3ty
 This is a short description on indicators
 ## Necessary Software
 
