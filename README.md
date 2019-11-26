@@ -1,5 +1,5 @@
 # Mzr3ty
-This is a short description on indicators
+This is a short description on the farmers registry
 ## Necessary Software
 
 * MySQL8+
