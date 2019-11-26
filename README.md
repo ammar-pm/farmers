@@ -100,4 +100,4 @@ uglifyjs --mangle  -- public/js/vendor.js > public/js/vendor.min.js
 
 
 
-"# mzr3ty" 
+"# mzr3ty test" 
