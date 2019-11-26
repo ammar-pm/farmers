@@ -2,7 +2,8 @@
 
 namespace App\Exceptions;
 
-use Auth;
+#use Auth;
+use Illuminate\Support\Facades\Auth;
 use Exception;
 use Session;
 use Lang;
