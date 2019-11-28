@@ -84,7 +84,10 @@ Route::group(['middleware' => ['auth', 'isadmin']], function () {
 // Site
 Route::group(['middleware' => ['web']], function () {
 
-	Route::get('/', 'SiteController@index');
+	//Route::get('/', 'SiteController@index');
+    Route::get('/', function () {
+        return redirect('login');
+    });
     Route::get('/about', 'SiteController@about');
     Route::get('/faqs', 'SiteController@faq');
     //Route::get('/contact_us', 'SiteController@contact_us');
