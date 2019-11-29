@@ -2,7 +2,7 @@
 
   <div class="container">
 
-    <img src="/img/indicators-logo.png" title="indicators" alt="indicators" class="logo">
+    <img src="/img/mzr3ty-logo-2x.png" title="mzr3ty" alt="mzr3ty" class="logo">
 
     <div class="row">
 

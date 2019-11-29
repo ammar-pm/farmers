@@ -1,4 +1,5 @@
 /* colors */
+/*$purple: #333950;*/
 body.application {
   /*.page {
     padding-top: 70px;
@@ -38,18 +39,18 @@ body.application {
     /*color: white;*/
     /*text-decoration: underline;*/ }
   body.application nav.navbar-light {
-    background: #333950; }
+    background: gray; }
     body.application nav.navbar-light .navbar-nav .nav-link, body.application nav.navbar-light a {
       color: #fff; }
     body.application nav.navbar-light .dropdown-menu .nav-link {
       color: #000000 !important; }
   body.application .navbar.bg-transparent.top-nav-collapse {
-    background-color: #333950 !important; }
+    background-color: gray !important; }
     body.application .navbar.bg-transparent.top-nav-collapse a {
       color: #fff; }
   @media (max-width: 991px) {
     body.application .navbar.bg-transparent {
-      background-color: #333950 !important; }
+      background-color: gray !important; }
       body.application .navbar.bg-transparent a {
         color: #fff; } }
   body.application .dropdown.open .dropdown-menu {
@@ -257,7 +258,7 @@ body.application {
           body.application .indicators .indicators-content .ais-results .title a:hover {
             color: #000000; }
   body.application footer {
-    background: #333950;
+    background: gray;
     padding: 15px 0; }
     body.application footer .logo {
       margin: 20px 0; }

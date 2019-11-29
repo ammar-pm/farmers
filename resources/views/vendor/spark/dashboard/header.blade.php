@@ -4,7 +4,7 @@
   
   <a class="navbar-brand" href="/">
     <!-- <h1> PCBS </h1> -->
-    <img src="/img/indicators-logo.png" title="indicators" alt="indicators">
+    <img src="/img/mzr3ty-logo-2x.png" title="mzr3ty" alt="mzr3ty" class="logo">
   </a>
 
   @if (Auth::check())

@@ -9,7 +9,7 @@
         <div class="card-body">
           
           <div class="text-center">
-            <img src="/img/indicators-logo.png" alt="Indicators.ps">
+            <img src="/img/mzr3ty-logo-2x.png" title="mzr3ty" alt="mzr3ty" class="logo">
             <h1>{{ __('common.resetpassword') }}</h1>
             <p class="text-muted">{{ __('common.resetpasswordـtagline') }}</p>
           </div>

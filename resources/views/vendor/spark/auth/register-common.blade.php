@@ -150,7 +150,7 @@
       <div class="card-body">
 
         <div class="text-center">
-          <img src="/img/indicators-logo.png" alt="Indicators.ps">
+          <img src="/img/mzr3ty-logo-2x.png" title="mzr3ty" alt="mzr3ty" class="logo">
           <span v-if="paidPlans.length > 0">
             <h1>{{ __('common.profile_title') }}</h1>
             <p class="text-muted">{{ __('common.profile_tagline') }}</p>
