@@ -20,6 +20,7 @@
     <!-- @yield('scripts', '') -->
     <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/rikmms/progress-bar-4-axios/0a3acf92/dist/nprogress.css" />
     <link href="https://fonts.googleapis.com/css?family=Tajawal" rel="stylesheet">
+    <link rel="shortcut icon" href="/landing/images/favicon.png">
     <!-- Global Spark Object -->
     <script>
       window.Spark = <?php echo json_encode(array_merge(

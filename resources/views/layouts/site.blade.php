@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ Config::get('site_name') }} | {{ Config::get('tag_line') }}</title>
 
-    <link rel="shortcut icon" href="/landing/images/pcbs-favicon.ico">
+    <link rel="shortcut icon" href="/landing/images/favicon.png">
     <link href="https://fonts.googleapis.com/css?family=Tajawal" rel="stylesheet">
 
     @if(isset($post->title))

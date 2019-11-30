@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="{{ asset('css/dashboard/main.css') }}" />
     <link rel="stylesheet" href="{{ asset('css/auth.css') }}" />
     <link href="https://fonts.googleapis.com/css?family=Tajawal" rel="stylesheet">
+    <link rel="shortcut icon" href="/landing/images/favicon.png">
     <!-- <link rel="stylesheet" href="./../../node_modules/@coreui/coreui/dist/css/coreui.min.css"> -->
     <!-- <style> .mdi { color: red;  }</style> -->
     <!-- Scripts -->
