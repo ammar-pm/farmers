@@ -150,6 +150,17 @@ Vue.component('plotly-map', {
                         //style: 'mapbox://styles/ahayek84/cjvgy0ouq01qb1co8b1em3jtt', // abed worked 1 Streets-copy  slider broken
                         accesstoken:response.data.style_load.accesstoken,
                         style: response.data.style_load.style,
+                        layers:[
+                            {
+                                sourcetype: 'geojson',
+                                source:'/map_layers/geojson/Locality2017.json',
+                                type:'line',
+                                line:{
+                                    width:0.5
+                                },
+                                color:'#adacac'
+                            }
+                        ],
                         /*layers:[
                             {
                                 sourcetype: 'geojson',
@@ -158,7 +169,9 @@ Vue.component('plotly-map', {
                                 line:{
                                     width:1
                                 },
-                                color:'#444'
+                                color:'#444',
+                                fill:'toself',
+                                fillcolor:'#000'
                             },
                             {
                                 sourcetype: 'geojson',
